@@ -1,14 +1,16 @@
 # Machine-Learning
-Machine learning: Practical applications
+***Machine learning: Practical applications***
 
-This repository contains machine learning models which implemented and trained completely by Iman Irajian.
+***
 
-<code style="background:none">Author: Iman Irajian</code> ```math \infty ```
+```
+Author: Iman Irajian
+```   
 
 <table style="float:left">
     <thead>
         <tr>
-            <th colspan=2></th>
+            <th colspan=2>Contact</th>
         </tr>
     </thead>
     <tbody>
@@ -23,6 +25,9 @@ This repository contains machine learning models which implemented and trained c
     </tbody>
 </table>
 
+***
+
+This repository contains machine learning models which implemented and trained completely by Iman Irajian.
 
 | ID | Model | Dataset |
 | --- | --- | --- |
