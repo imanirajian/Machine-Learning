@@ -3,7 +3,7 @@ Machine learning: Practical applications
 
 This repository contains machine learning models which implemented and trained completely by Iman Irajian.
 
-<code style="background:none">Author: Iman Irajian</code> $\infty$
+<code style="background:none">Author: Iman Irajian</code> ```math \infty ```
 
 <table style="float:left">
     <thead>
