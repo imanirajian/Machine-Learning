@@ -7,6 +7,10 @@ This repository contains machine learning models which implemented and trained c
 | --- | --- | --- |
 | 1 | Multivariate Linear Regression |Boston House-Prices dataset |
 
+Furthermore, Tools:
+| ID | Title | File | Description |
+| --- | --- | --- | --- |
+| 1 | k-fold_cross-validation_formulation | 1_k-fold_cross-validation_formulation.ipynb |A mathematical formulation for k-fold cross-validation |
 ***
 
 ```
