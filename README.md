@@ -11,7 +11,7 @@ Furthermore, Tools:
 
 | ID | Title | File | Description |
 | --- | --- | --- | --- |
-| 1 | k-fold_cross-validation_formulation | 1_k-fold_cross-validation_formulation.ipynb |A mathematical formulation for k-fold cross-validation |
+| 1 | k-fold cross validation formulation | 1_k-fold_cross-validation_formulation.ipynb |A mathematical formulation for k-fold cross-validation |
 
 ***
 
