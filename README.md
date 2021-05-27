@@ -16,7 +16,7 @@ Furthermore, Tools:
 Preprocessing:
 
 | ID | Title | File | Dataset |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 1 | Log of word frequencies | shakespeare_log-of-word-frequencies.py | TensorFlow.org Shakespeare dataset |
 
 ***
