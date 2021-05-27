@@ -7,7 +7,7 @@ This repository contains machine learning models which implemented and trained c
 | --- | --- | --- |
 | 1 | Multivariate Linear Regression | Boston House-Prices dataset |
 
-Furthermore, Tools:
+Tools:
 
 | ID | Title | File | Description |
 | --- | --- | --- | --- |
