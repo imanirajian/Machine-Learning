@@ -24,14 +24,11 @@ with open(path_to_file, "r") as f:
     for file_line in f:
         for waste in waste_list:
             file_line = file_line.replace(waste, "")
-
         file_line = file_line.lower()
         file_lines.append(file_line)
-
         for word in file_line.split():
             if word not in words_count:
                 words_count[word] = 0
-
             words_count[word] += 1
             unique_words.add(word)
 
