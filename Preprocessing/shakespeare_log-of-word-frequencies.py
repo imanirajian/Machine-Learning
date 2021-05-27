@@ -1,3 +1,14 @@
+"""
+Developer >
+    Author: Iman Irajian
+    Email: iman.irajian@gmail.com
+    LinkedIn: linkedin.com/in/imanirajian
+
+Preprocessing >
+    Task: Plotting the log of word frequencies
+    Dataset: TensorFlow.org Shakespeare dataset
+"""
+
 import tensorflow as tf
 import string
 import numpy as np
