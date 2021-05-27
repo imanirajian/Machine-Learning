@@ -5,13 +5,19 @@ This repository contains machine learning models which implemented and trained c
 
 | ID | Model | Dataset |
 | --- | --- | --- |
-| 1 | Multivariate Linear Regression |Boston House-Prices dataset |
+| 1 | Multivariate Linear Regression | Boston House-Prices dataset |
 
 Furthermore, Tools:
 
 | ID | Title | File | Description |
 | --- | --- | --- | --- |
 | 1 | k-fold cross validation formulation | 1_k-fold_cross-validation_formulation.ipynb |A mathematical formulation for k-fold cross-validation |
+
+Preprocessing:
+
+| ID | Title | File | Dataset |
+| --- | --- | --- |
+| 1 | Log of word frequencies | shakespeare_log-of-word-frequencies.py | TensorFlow.org Shakespeare dataset |
 
 ***
 
