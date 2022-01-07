@@ -6,6 +6,7 @@ This repository contains machine learning models which implemented and trained c
 | ID | Model | Dataset |
 | --- | --- | --- |
 | 1 | Multivariate Linear Regression | Boston House-Prices dataset |
+| 2 | Convolutional AutoEncoder | MNIST dataset |
 
 Tools:
 
@@ -18,6 +19,12 @@ Preprocessing:
 | ID | Title | File | Dataset |
 | --- | --- | --- | --- |
 | 1 | Log of word frequencies | shakespeare_log-of-word-frequencies.py | TensorFlow.org Shakespeare dataset |
+
+Helpers:
+
+| ID | Title | File | Description |
+| --- | --- | --- | --- |
+| 1 | MNIST dataset helper | mnist_helper.py | MNIST dataset loading helper |
 
 ***
 
