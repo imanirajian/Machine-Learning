@@ -1,25 +1,3 @@
-ae_helper.py
-Who has access
-Not shared
-System properties
-Type
-Text
-Size
-2 KB
-Storage used
-2 KB
-Location
-Helpers
-Owner
-me
-Modified
-6:34 PM by me
-Opened
-3:27 AM by me
-Created
-9:25 PM with Google Drive Web
-Add a description
-Viewers can download
 from typing import Tuple
 
 from sklearn.datasets import fetch_openml
