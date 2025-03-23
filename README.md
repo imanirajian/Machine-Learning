@@ -3,10 +3,11 @@
 
 This repository contains machine learning models which implemented and trained completely by *Iman Irajian*.
 
-| ID | Model | Dataset |
-| --- | --- | --- |
-| 1 | Multivariate Linear Regression | Boston House-Prices dataset |
-| 2 | Convolutional AutoEncoder | MNIST dataset |
+| ID | Model | Dataset                    | Problem                             |
+|----| --- |----------------------------|-------------------------------------|
+| 1  | Multivariate Linear Regression | Boston House-Prices dataset | Curve Fitting (Regression Analysis) |
+| 2  | Convolutional AutoEncoder | MNIST dataset | Handwritten Digit Recognition       |
+| 3  | AutoEncoder | ECG5000                    | Anomaly Detection                   |
 
 Tools:
 
